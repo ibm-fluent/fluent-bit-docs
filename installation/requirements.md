@@ -1,6 +1,6 @@
 # Requirements
 
-[Fluent Bit](http://fluentbit.io) uses very low CPU and Memory consumption, it's compatible with most of x86, x86\_64, arm32v7 and arm64v8 based platforms. In order to build it you need the following components in your system for the build process:
+[Fluent Bit](http://fluentbit.io) uses very low CPU and Memory consumption, it's compatible with most of x86, x86\_64, arm32v7, arm64v8 and s390x based platforms. In order to build it you need the following components in your system for the build process:
 
 * Compiler: GCC or clang
 * CMake
